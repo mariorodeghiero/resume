@@ -12,7 +12,7 @@
 
 ## About Me
 
-After a solid career of 10 years in the telecommunications area, I decided to change the area and look for new challenges. My free time to study development, contribute to Open Source projects and improve my English. Graduate student in Data science and Big Data Analytics and in parallel I continue my studies focused on Front End, I have as main programming language ”Javascript” but I also have knowledge of Python and I love ReactJS. I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of ”Vue Theme”, theme with more than 43600 Installs in the Visual Studio Code editor.
+After a solid career of 10 years in the telecommunications area, I decided to change the area and look for new challenges. My free time to study development, contribute to Open Source projects and improve my English. Graduate student in Data science and Big Data Analytics and in parallel I continue my studies focused on Front End, I have as main programming language ”Javascript” but I also have knowledge of Python and I love ReactJS. I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of ”Vue Theme”, theme with more than 44900 Installs in the Visual Studio Code editor.
 
 ## Work Experience
 
@@ -22,9 +22,11 @@ After a solid career of 10 years in the telecommunications area, I decided to ch
 > Florianópolis - Brazil  
 > Jul 2014 - Jun 2017
 
-- MyresponsibilityasanAnalystIIwastoberesponsibleformanagingallroutersintheclusterFlorianópolis-SCBrazilanddevelopingapplica- tions to guarantee the company’s SLA.
-- IcreatedtwoprogramsusingJavascript,Python,SheelScript,HTMLandCSStomonitorallnetworkequipmentandtotestDNSnameserver resolution.
-- Reducingtheresponsetimetoincidentsby50%andavoidingthatnoneofthe80equipmentwentunnoticedafteranalystconfigurationactivity
+- My responsibility as an AnalystIIwas to be responsible for managing all routers in the cluster Florianópolis SC-Brazil and developing applications to guarantee the company’s SLA.
+
+- I created two programs using Javascript, Python, shell script, HTML and CSS to monitor all network equipment and to test DNS name server resolution.
+
+- Reduce response time and prevent any equipment from going unnoticed after some analyst configuration activity.
 
 #### Claro - América Móvil
 
@@ -32,7 +34,7 @@ After a solid career of 10 years in the telecommunications area, I decided to ch
 > Florianópolis - Brazil  
 > Apr 2013 - Jul 2014
 
-- ResponsiblefordeployingandmanagingtheDataCenterinfrastructureinhighavailabilityandmission-criticalenvironmentssuchasOracle Solaris servers DHCP, DNS, TFTP, LDAP, Cisco and Huawei routers, Switches (Cisco) and CMTS (Cisco, Arris, CasaSystem and Motorola), re- sponsible for the generation and distribution of DOCSIS (Broadband Internet, VOIP and Video On Demand) technology services to more than 170,000 customers in the cities of Florianópolis, São José and Palhoça. Key activities include managing LAN and WAN routing (IPv4, IPv6, and NAT), BGP and OSPF, traffic balancing control, link management, monitoring, troubleshooting, network documentation, and support level 2 for operations in the state of Santa Catarina - Brazil, assisting, guiding and planning demands for Datacenter teams.
+- Responsible for deploying and managing the DataCenter infrastructure in high availability and mission-critical environments such as Oracle Solaris servers DHCP, DNS, TFTP, LDAP, Cisco and Huawei routers, Switches (Cisco) and CMTS (Cisco, Arris, CasaSystem and Motorola), responsible for the generation and distribution of DOCSIS (Broadband Internet, VOIP and Video On Demand) technology services to more than 170,000 customers in the cities of Florianópolis, São José and Palhoça. Key activities include managing LAN and WAN routing (IPv4, IPv6, and NAT), BGP and OSPF, traffic balancing control, link management, monitoring, troubleshooting, network documentation, and support level 2 for operations in the state of Santa Catarina - Brazil, assisting, guiding and planning demands for Datacenter teams.
 
 #### Claro - América Móvil
 
@@ -54,13 +56,13 @@ After a solid career of 10 years in the telecommunications area, I decided to ch
 
 ## Education
 
-#### GRADUATE STUDIES DATA SCIENCE AND BIG DATA ANALYTICS
+#### Graduate studies Data science and Big Data Analytics
 
 - University Estácio de Sá
 - Florianópolis, Brazil
 - Dec. 2018 - PRESENT
 
-### TECHNICIAN’S LICENSE COMPUTER NETWORKS
+### Technician’s license Computer networks
 
 - University Estácio de Sá
 - Florianópolis, Brazil
