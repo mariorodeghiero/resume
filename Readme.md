@@ -1,6 +1,6 @@
-# Mário Antônio A. Rodeghiero
+# Mário Antônio do Amaral Rodeghiero
 
-## FRONT END DEVELOPER
+## FRONT-END DEVELOPER
 
 > 88034-102, Rod. Amaro Antônio Vieira 2259 Apt. 404, Florianópolis - SC, Brazil  
 > (+55) 48 99691-2866  
@@ -12,9 +12,28 @@
 
 ## About Me
 
-After a solid career of 10 years in the telecommunications area, I decided to change the area and look for new challenges. My free time to study development, contribute to Open Source projects and improve my English. Graduate student in Data science and Big Data Analytics and in parallel I continue my studies focused on Front End, I have as main programming language ”Javascript” but I also have knowledge of Python and I love ReactJS. I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of ”Vue Theme”, theme with more than 44900 Installs in the Visual Studio Code editor.
+After a solid career of 10 years in the telecommunications area, I decided that after the birth of my son, it would be time to change the area and look for new challenges. Since June 2017, I dedicate my free time to study development, contribute to Open Source projects and improve my English. Currently my studies are focused on Front-end, I have as main programming language Javascript and I ❤️ ReactJS.
+I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of "Vue Theme", theme with +61100 installs | + 101000 downloads ⬇️  in the Visual Studio Code editor.
 
 ## Work Experience
+
+#### [Nextt](https://www.nextt.com.br/en/index.html)
+
+> Front-End Developer  
+> Florianópolis - Brazil  
+> mar 2019 - current
+
+- Designing and building amazing user experiences for digital products and services.
+- Using: ReactJS, Javascript, Nodejs, CSS, SASS, Bootstrap, HTML, Laravel, gulp, webpack, Myslq, PHP.
+- My main language of development is Javascript, focus on ReactJS.
+
+#### Self-employed - Freelancer
+
+> Front-End Developer  
+> Florianópolis - Brazil  
+> Jul 2017 - fev 2019
+
+- I worked as a freelancer while I was conducting my studies about development.
 
 #### Claro - América Móvil
 
