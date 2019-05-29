@@ -35,7 +35,7 @@ I keep my personal codes and projects on Github and I have also developed my blo
 
 - I worked as a freelancer while I was conducting my studies about development.
 
-#### Claro - América Móvil
+#### [Claro - América Móvil](https://www.claro.com.br/)
 
 > DATACENTER ANALYST II  
 > Florianópolis - Brazil  
@@ -47,7 +47,7 @@ I keep my personal codes and projects on Github and I have also developed my blo
 
 - Reduce response time and prevent any equipment from going unnoticed after some analyst configuration activity.
 
-#### Claro - América Móvil
+#### [Claro - América Móvil](https://www.claro.com.br/)
 
 > DATACENTER ANALYST I  
 > Florianópolis - Brazil  
@@ -55,19 +55,19 @@ I keep my personal codes and projects on Github and I have also developed my blo
 
 - Responsible for deploying and managing the DataCenter infrastructure in high availability and mission-critical environments such as Oracle Solaris servers DHCP, DNS, TFTP, LDAP, Cisco and Huawei routers, Switches (Cisco) and CMTS (Cisco, Arris, CasaSystem and Motorola), responsible for the generation and distribution of DOCSIS (Broadband Internet, VOIP and Video On Demand) technology services to more than 170,000 customers in the cities of Florianópolis, São José and Palhoça. Key activities include managing LAN and WAN routing (IPv4, IPv6, and NAT), BGP and OSPF, traffic balancing control, link management, monitoring, troubleshooting, network documentation, and support level 2 for operations in the state of Santa Catarina - Brazil, assisting, guiding and planning demands for Datacenter teams.
 
-#### Claro - América Móvil
+#### [Claro - América Móvil](https://www.claro.com.br/)
 
 > TECHNICIAN III  
 > Florianópolis - Brazil  
 > Aug 2012 to Apr 2013
 
-#### NET - - América Móvil
+#### [Claro - América Móvil](https://www.net.com.br/)
 
 > TECHNICIAN II  
 > Florianópolis - Brazil  
 > Jun 2010 - Jul 2012
 
-#### RCtel Solution in Telecommunications
+#### [RCtel Solution in Telecommunications](http://rctel.com.br/)
 
 > SUPPORT ANALYST  
 > Florianópolis - Brazil  
