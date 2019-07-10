@@ -13,17 +13,17 @@
 ## About Me
 
 After a solid career of 10 years in the telecommunications area, I decided that after the birth of my son, it would be time to change the area and look for new challenges. Since June 2017, I dedicate my free time to study development, contribute to Open Source projects and improve my English. Currently my studies are focused on Front-end, I have as main programming language Javascript and I ❤️ ReactJS.
-I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of "Vue Theme", theme with +61100 installs | + 101000 downloads ⬇️  in the Visual Studio Code editor.
+I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of "Vue Theme", theme with +70600 installs | + 112000 downloads ⬇️  in the Visual Studio Code editor.
 
 ## Work Experience
 
 #### [VanHack](https://www.vanhack.com)
 
 > Front-End Developer - ReactJS 
-> Florianópolis - Brazil  
+> Vancouver - Canada  
 > jun 2019 - current
 
-- Using: ReactJS, Javascript, styled-components, Nodejs, CSS, SASS, Material-UI, HTML, webpack,
+- Using: ReactJS, Javascript, styled-components, Nodejs, CSS, SASS, Material-UI, HTML, webpack, Jira and GitLab.
 
 #### [Nextt](https://www.nextt.com.br/en/index.html)
 
@@ -97,7 +97,7 @@ I keep my personal codes and projects on Github and I have also developed my blo
 
 ## Technical skills
 
-ReactJS, Javascript, ES6, Python, HTML, CSS, SASS (Preprocessor), styled-components, ElectronJS, Bootstrap, Git/Github and Webpack.
+ReactJS, Javascript, ES6, Python, HTML, CSS, SASS, styled-components, ElectronJS, Bootstrap, Git/Github and Webpack.
 
 ## Languages
 
