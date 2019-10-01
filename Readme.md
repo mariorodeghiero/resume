@@ -19,11 +19,11 @@ I keep my personal codes and projects on Github and I have also developed my blo
 
 #### [VanHack](https://www.vanhack.com)
 
-> Front-End Developer  
+> Front-End Developer  - remote
 > Vancouver - Canada  
 > jun 2019 - Current
 
-- Using: ReactJS, Javascript, styled-components, Nodejs, CSS, SASS, Material-UI, HTML, webpack, Jira and GitLab.
+- Using: ReactJS, Javascript, styled-components, storybook, Nodejs, CSS, SASS, Material-UI, HTML, webpack, Jira and GitLab.
 
 #### [Nextt](https://www.nextt.com.br/en/index.html)
 
