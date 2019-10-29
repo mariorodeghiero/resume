@@ -2,30 +2,47 @@
 
 ## FRONT-END DEVELOPER
 
-> 88034-102, Rod. Amaro Antônio Vieira 2259 Apt. 404, Florianópolis - SC, Brazil  
+> 88034-102, Rod. Amaro Antônio Vieira 2259, Florianópolis - SC, Brazil  
 > (+55) 48 99691-2866  
 > mario.rodeghiero@gmail.com  
-> www.mrodeghiero.com  
+> www.mariorodeghiero.com  
 > https://www.linkedin.com/in/mariorodeghiero/  
 > https://github.com/mariorodeghiero  
 > Skype: mariogottinari
 
 ## About Me
 
-After a solid career of 10 years in the telecommunications area, I decided that after the birth of my son, it would be time to change the area and look for new challenges. Since June 2017, I dedicate my free time to study development, contribute to Open Source projects and improve my English. Currently my studies are focused on Front-end, I have as main programming language Javascript and I ❤️ ReactJS.
-I keep my personal codes and projects on Github and I have also developed my blog to put my learning into practice by publishing articles on development. I am also the creator of "Vue Theme", theme with +61100 installs | + 101000 downloads ⬇️  in the Visual Studio Code editor.
+I am a Front-End Developer - focused on ReactJS, working remotely for a Canadian company. More than 3 years of experience as a Developer and 10 years with telecommunications. I am passionate for open-source and a JavaScript Lover, also the creator of "Vue Theme", a theme with more than 94.000 installs in the Visual Studio Code.
+My strongest skills are React, JavaScript, and CSS. I love to share knowledge and to help other people.
+I learned a lot from contributing to open-source projects and I worked with very experienced senior developers and designers, building amazing user experiences.
+I keep my personal codes and projects on Github and I like to write some articles about development on my blog.
 
 ## Work Experience
+
+#### [VanHack](https://www.vanhack.com)
+
+> Front-End Developer  
+> Vancouver, BC - Canada  
+> Jun 2019 - ongoing
+
+
+Using: ReactJS, Redux, Javascript, styled-components, Storybook, material UI, webpack, Jira, Git, GitLab
 
 #### [Nextt](https://www.nextt.com.br/en/index.html)
 
 > Front-End Developer  
 > Florianópolis - Brazil  
-> mar 2019 - current
+> Feb 2019 - Jun 2019
 
-- Designing and building amazing user experiences for digital products and services.
-- Using: ReactJS, Javascript, Nodejs, CSS, SASS, Bootstrap, HTML, Laravel, gulp, webpack, Myslq, PHP.
-- My main language of development is Javascript, focus on ReactJS.
+In this position, I worked with very experienced developers and designers, designing and building amazing user experiences for digital products and services for many clients around the world like:
+
+- https://www.redweek.com
+- https://www.careforkids.com.au
+- https://www.philips.com.br
+- https://www.unasp.br
+- https://www.hering.com.br/store/
+
+Using: ReactJS, Redux, Javascript, Nodejs, CSS, SASS, Bootstrap, HTML, Laravel, gulp, webpack, Myslq, PHP and Jira.
 
 #### Self-employed - Freelancer
 
@@ -33,7 +50,7 @@ I keep my personal codes and projects on Github and I have also developed my blo
 > Florianópolis - Brazil  
 > Jul 2017 - fev 2019
 
-- I worked as a freelancer while I was conducting my studies about development.
+- I worked as a freelancer and contributing to open-source projects while I was conducting my studies about development.
 
 #### [Claro - América Móvil](https://www.claro.com.br/)
 
@@ -75,22 +92,24 @@ I keep my personal codes and projects on Github and I have also developed my blo
 
 ## Education
 
-#### Graduate studies Data science and Big Data Analytics
-
-- University Estácio de Sá
-- Florianópolis, Brazil
-- Dec. 2018 - PRESENT
-
 ### Technician’s license Computer networks
 
 - University Estácio de Sá
 - Florianópolis, Brazil
 - Dec. 2016
 
+### Telecommunications technician
+
+- IFSC - Federal Institute of Santa
+- Florianópolis, Brazil
+- Dec. 2011
+
+
+
 ## Technical skills
 
-ReactJS, Javascript, ES6, Python, HTML, CSS, SASS (Preprocessor), styled-components, ElectronJS, Bootstrap, Git/Github and Webpack.
+Javascript, ReactJS, Redux, styled-components, Storybook, Webpack, ES6, HTML, CSS, SASS, ElectronJS, NodeJS, Bootstrap, Python, Laravel, Git/Github and Jira.
 
 ## Languages
 
-Portuguese (fluent), English (intermediate)
+Portuguese (Native), English (Working proficiency)
