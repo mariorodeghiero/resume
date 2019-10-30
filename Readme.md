@@ -2,31 +2,38 @@
 
 ## FRONT-END DEVELOPER
 
-> 88034-102, Rod. Amaro Antônio Vieira 2259, Florianópolis - SC, Brazil  
+> Florianópolis - SC, Brazil  
 > (+55) 48 99691-2866  
 > mario.rodeghiero@gmail.com  
 > www.mariorodeghiero.com  
-> https://www.linkedin.com/in/mariorodeghiero/  
+> https://www.linkedin.com/in/mariorodeghiero/?locale=en_US
 > https://github.com/mariorodeghiero  
-> Skype: mariogottinari
 
-## About Me
+## PERSONAL STATEMENT
 
-I am a Front-End Developer - focused on ReactJS, working remotely for a Canadian company. More than 3 years of experience as a Developer and 10 years with telecommunications. I am passionate for open-source and a JavaScript Lover, also the creator of "Vue Theme", a theme with more than 94.000 installs in the Visual Studio Code.
+I am a Front-End Developer - focused on ReactJS, working remotely for a Canadian company. More than 3 years of experience as a Developer and 10+ years of experience with telecommunications. I am passionate for open-source and a JavaScript Lover, also the creator of "Vue Theme", a theme with more than 94.000 installs in the Visual Studio Code.
 My strongest skills are React, JavaScript, and CSS. I love to share knowledge and to help other people.
 I learned a lot from contributing to open-source projects and I worked with very experienced senior developers and designers, building amazing user experiences.
 I keep my personal codes and projects on Github and I like to write some articles about development on my blog.
+
+(Studying): React Native, GraphQL, Gatsby and NodeJS.
 
 ## Work Experience
 
 #### [VanHack](https://www.vanhack.com)
 
+
 > Front-End Developer  
-> Vancouver, BC - Canada  
-> Jun 2019 - ongoing
+> Vancouver, BC - Canada(Remote)  
+> Jun 2019 - Present
 
+We are currently making a major migration to the new platform serving more than 100,000 users, using ReactJS with clean, scalable project structure and efficient architecture based on Redux.
+Using technologies like ReactJS, Redux, Javascript, style-components, Storybook, Material UI, Webpack, Jira, Git and GitLab.
 
-Using: ReactJS, Redux, Javascript, styled-components, Storybook, material UI, webpack, Jira, Git, GitLab
+- We are impacting more than 100,000 users, helping to achieve the dream job.
+- Building clean and reusable components in ReactJS.
+- Excellent Documentation Using Storybook.
+- Beautiful and clean components using style-components
 
 #### [Nextt](https://www.nextt.com.br/en/index.html)
 
@@ -34,7 +41,7 @@ Using: ReactJS, Redux, Javascript, styled-components, Storybook, material UI, we
 > Florianópolis - Brazil  
 > Feb 2019 - Jun 2019
 
-In this position, I worked with very experienced developers and designers, designing and building amazing user experiences for digital products and services for many clients around the world like:
+In this position, I worked with very experienced developers and designers, designing and building amazing user experiences for digital products and services with responsive layouts for many clients around the world like:
 
 - https://www.redweek.com
 - https://www.careforkids.com.au
@@ -105,11 +112,13 @@ Using: ReactJS, Redux, Javascript, Nodejs, CSS, SASS, Bootstrap, HTML, Laravel, 
 - Dec. 2011
 
 
-
 ## Technical skills
 
 Javascript, ReactJS, Redux, styled-components, Storybook, Webpack, ES6, HTML, CSS, SASS, ElectronJS, NodeJS, Bootstrap, Python, Laravel, Git/Github and Jira.
 
 ## Languages
 
-Portuguese (Native), English (Working proficiency)
+> English (Working proficiency)
+
+> Portuguese (Native)
+
