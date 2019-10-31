@@ -107,7 +107,7 @@ Using: ReactJS, Redux, Javascript, Nodejs, CSS, SASS, Bootstrap, HTML, Laravel, 
 
 ### Telecommunications technician
 
-- IFSC - Federal Institute of Santa
+- IFSC - Federal Institute of Santa Catarina
 - Florianópolis, Brazil
 - Dec. 2011
 
